@@ -15,7 +15,8 @@
 + [Gary Larizza‏ - "My time at Puppet has come to an end, but my consulting has not! TL;DR: joining @0xEFF at http://openinfrastructure.co!"](http://garylarizza.com/blog/2017/08/25/some-other-beginnings-end/)
 
 ## Puppet ecosystem software announcements and news bits
-+ [Foreman 1.16.0 should release sometime in the next 5 or 6 weeks](http://projects.theforeman.org/projects/foreman/wiki/Foreman_116_Schedule)
++ [Foreman 1.16 Schedule of release](http://projects.theforeman.org/projects/foreman/wiki/Foreman_116_Schedule)
+  - According to foreman-dev mailing list, there have been a number of reasons for the delays, but I imagine that they will be able to have it release in the next 5 to 6 weeks
 + [Puppet Enterprise 2016.4.7 and 2017.2.3 available](https://groups.google.com/d/msg/puppet-announce/gRK35ZoF1GE/K5vImdnlBgAJ)
   - *These releases include fixes to address security vulnerabilities in Java and nginx, as well as a number of other bugfixes and improvements.*
 + [Puppet agent 1.10.7 released](https://groups.google.com/d/msg/puppet-announce/2mYRt2X9Piw/_wkOQJuOAgAJ)
@@ -33,6 +34,7 @@
   - *So why erb-hiera? Because it is simple, and our teams are used to the combination of ERB templating language and Hiera due to their familiarity with Puppet. We can use the same tool across multiple code bases which manage our infrastructure and applications.*
 + [The Wikimedia Foundation’s Discovery Analysis team recently switched to a Puppet-based configuration for their metrics dashboards.](https://blog.wikimedia.org/2017/08/21/discovery-dashboards-puppet/)
   - *In this post, we share resources and tips for learning Puppet for non-Technical Operations (Ops) people, and - as an educational exercise for newcomers - explain how the new configuration works.*
++ [Harden Debian 9 Using Puppet](http://bit.ly/HardDeb)
 + Puppet tips from Example42 blog:
   - [Tip of the Week 32 - Puppet class indirection via Hiera](https://www.example42.com/2017/08/07/class-indirection/)
   - [Tip of the Week 33 - Testing a control-repo with Vagrant](https://www.example42.com/2017/08/14/testing-a-control-repo-with-vagrant/)
