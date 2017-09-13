@@ -25,11 +25,11 @@
     + *Unit test modules from their workstation to ensure that Puppet code is creating and managing resources as intended*
 
 ## Selected news items from Puppet.com Blog:
-  + [2017 DevOps Salary Report](https://puppet.com/resources/whitepaper/2017-devops-salary-report) has info on:
-  + *Which job titles yield the highest salaries — and which are becoming more or less common.*
-  + *How IT manager salaries have changed around the world since last year.*
-  + *How the amount of manual configuration management people do affects their salaries.*
-  - ['Puppet Podcast: Introducing the Puppet Development Kit'](https://puppet.com/products/capabilities/puppet-podcast-introducing-puppet-development-kit-pdk)
++ [2017 DevOps Salary Report](https://puppet.com/resources/whitepaper/2017-devops-salary-report) has info on:
+  - *Which job titles yield the highest salaries — and which are becoming more or less common.*
+  - *How IT manager salaries have changed around the world since last year.*
+  - *How the amount of manual configuration management people do affects their salaries.*
++ ['Puppet Podcast: Introducing the Puppet Development Kit'](https://puppet.com/products/capabilities/puppet-podcast-introducing-puppet-development-kit-pdk)
 
 ## Other news:
 + [Looking at public Puppet servers](https://infosec.rm-it.de/2017/07/18/looking-at-public-puppet-servers/) - "*Out of those 2500 servers: 89 immediately signed our certificate. Out of those 89: 50 compiled a valid catalog that could have been applied directly. 39 tried to compile a catalog and failed with issues that could potentially be worked around on the client but no time was spent on that.*"
