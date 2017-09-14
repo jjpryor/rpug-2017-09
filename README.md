@@ -10,13 +10,14 @@
   - *More extended/workshop sessions than ever before*
 + [ATO Schedule now available](http://allthingsopen.org/schedule/)
 
-## Puppet ecosystem community announcements
+## Puppet community announcements
 + [There is still time to get 10% off your PuppetConf 2017 ticket so register by September 25](http://bit.ly/2wXaNRH)
 + [Gary Larizza‏ - "My time at Puppet has come to an end, but my consulting has not! TL;DR: joining @0xEFF at http://openinfrastructure.co!"](http://garylarizza.com/blog/2017/08/25/some-other-beginnings-end/)
 
 ## Puppet ecosystem software announcements and news bits
 + [Foreman 1.16 Schedule of release](http://projects.theforeman.org/projects/foreman/wiki/Foreman_116_Schedule)
   - According to foreman-dev mailing list, there have been a number of reasons for the delays, but I imagine that they will be able to have it release in the next 5 to 6 weeks
+  - [1.16 changelog thing](http://projects.theforeman.org/rb/release/240)
 + [Puppet Enterprise 2016.4.7 and 2017.2.3 available](https://groups.google.com/d/msg/puppet-announce/gRK35ZoF1GE/K5vImdnlBgAJ)
   - *These releases include fixes to address security vulnerabilities in Java and nginx, as well as a number of other bugfixes and improvements.*
 + [Puppet agent 1.10.7 released](https://groups.google.com/d/msg/puppet-announce/2mYRt2X9Piw/_wkOQJuOAgAJ)
@@ -50,6 +51,10 @@
   - *How the amount of manual configuration management people do affects their salaries.*
 + ['Puppet Podcast: Introducing the Puppet Development Kit'](https://puppet.com/products/capabilities/puppet-podcast-introducing-puppet-development-kit-pdk)
 
+## Other News
++ [All Day DevOps](http://www.alldaydevops.com/)
+  - *All Day DevOps is a FREE online community responsible for creating the world's largest DevOps conference. All Day DevOps 2017 will offer over 100, 30-minute sessions across six tracks in all time zones, simultaneously.*
+  - *Tracks include CI/CD, Modern Infrastructure and Monitoring, DevSecOps, Cultural Transformations, DevOps in Government, and the newly created "Tech Crawl" where companies will invite you to a sneak peek of what it's like to work on DevOps in their organization.*
 
 # Meeting's topic: DevOpsDay Raleigh / PuppetConf
 + [DevOpsDay Raleigh 2017 Schedule](https://dodral2017.busyconf.com/schedule)
