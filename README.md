@@ -1,7 +1,9 @@
 # 2017-09 Raleigh Puppet User Group Meeting notes
++ [This RPUG September meeting on meetup.com](https://www.meetup.com/Raleigh-Puppet-User-Group/events/241611795/)
+
 ## RPUG News
 + No meeting in October due to PuppetConf in October
-+ Most likely next meeting Monday, Nov 6, 2017 6:30 PM in Cary
++ [Next meeting Monday, Nov 6, 2017 6:30 PM in Cary](https://www.meetup.com/Raleigh-Puppet-User-Group/events/243275400/) where we'll be talking about the announcements and things learned at PuppetConf 2017.
 
 ## Local Triangle News
 + [All Things Open October 23 - 24, 2017 at Raleigh Convention Center in Raleigh](https://allthingsopen.org/)
